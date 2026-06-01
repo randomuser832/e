@@ -1,1 +1,1 @@
-https://brook-plausible-sanding.ngrok-free.dev
+https://brook-plausible-sanding.ngrok-free.dev/registerhwid
